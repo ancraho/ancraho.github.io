@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ancraho.github.io/sitemap.html.gz
+Sitemap: https://ancraho.github.io/app/sitemap.html.gz
+Sitemap: https://ancraho.github.io/assets/sitemap.html.gz
+Sitemap: https://ancraho.github.io/css/sitemap.html.gz
+Sitemap: https://ancraho.github.io/data/sitemap.html.gz
+Sitemap: https://ancraho.github.io/includes/sitemap.html.gz
+Sitemap: https://ancraho.github.io/item/sitemap.html.gz
+Sitemap: https://ancraho.github.io/src/sitemap.html.gz
